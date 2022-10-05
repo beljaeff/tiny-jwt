@@ -18,7 +18,7 @@
 
         <lombok.version>1.18.2</lombok.version>
 
-        <jackson-json.version>2.12.1</jackson-json.version>
+        <jackson-json.version>2.12.6.1</jackson-json.version>
 
         <!-- Tests -->
         <junit.version>4.13.1</junit.version>
